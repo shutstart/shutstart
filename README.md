@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shutstart
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on Synth plugin projects
-- 📫 How to reach me chirag.cool200@gmail.com
+- 💞️ I’m looking to collaborate on Web Development Projects
+- 📫 How to reach me chiragy282@gmail.com
 
 <!---
 shutstart/shutstart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
