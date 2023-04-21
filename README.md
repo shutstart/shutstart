@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shutstart
-- 👀 I’m interested in Audio Plugin Developemnt
-- 🌱 I’m currently learning JUCE framework
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on Synth plugin projects
 - 📫 How to reach me chirag.cool200@gmail.com
 
